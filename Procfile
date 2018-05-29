@@ -1,0 +1,1 @@
+worker: SkillzHub bot.js
