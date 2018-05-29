@@ -1,1 +1,1 @@
-worker: SkillzHub bot.js
+worker: SkillzHub Bot.js
